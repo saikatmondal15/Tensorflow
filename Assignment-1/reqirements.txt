@@ -1,0 +1,3 @@
+tensorflow
+datalab
+python-tk
